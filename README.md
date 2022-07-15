@@ -7,7 +7,7 @@ This project was built with:
 - Moment.js
 
 ## Project Screenshot
-![This is a screenshot of the work day scheduler.](/../main/assets/images/screenshot.png)
+![This is a screenshot of the work day scheduler.](./assets/images/127.0.0.1_5500_Workday-Scheduler_index.html.png)
 
 ## Project Link
-URL for work day scheduler: 
+URL for work day scheduler: [https://leocrydis.github.io/Workday-Scheduler/]
